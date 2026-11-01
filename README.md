@@ -22,7 +22,7 @@ Currently expanding into **Go**.
 ### 🛠 Tech stack
 
 **Languages**
-![Java](https://img.shields.io/badge/Java%2017+-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17%20%7C%2021%20%7C%2025-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go%20(learning)-00ADD8?style=flat&logo=go&logoColor=white)
@@ -54,6 +54,17 @@ Currently expanding into **Go**.
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+
+### 🤖 AI-assisted engineering
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-555?style=flat)
+
+- Use AI coding agents (Claude Code, GitHub Copilot, Codex) daily in production work: implementation, refactoring, tests, and careful review of AI-generated code.
+- Build my own agentic workflows on Claude: custom skills, MCP tools and browser automation for routine tasks.
+- Currently studying LLM application engineering (tool calling, RAG, agents). Orchestration experience (state machines, retries, idempotency, observability) carries over directly to running agents reliably in production.
 
 ### 💼 Experience
 
