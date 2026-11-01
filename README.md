@@ -57,7 +57,7 @@ Currently expanding into **Go**.
 
 ### 💼 Experience
 
-**Senior Java Backend Engineer** — IQ Group · *Feb 2024 – present*
+**Senior Java Backend Engineer** — IQ Group · *Feb 2024 – present*<br>
 Marketing automation platform for a top-3 federal grocery retailer (SMS, Push, Email, Viber campaigns).
 - Own the core orchestration microservice (Java 17, Spring Boot); implemented a 14-stage BPMN 2.0 process in Camunda BPM 7 covering the full campaign lifecycle.
 - Fixed a premature state transition in a Kafka integration: status is now updated on the downstream acknowledgement instead of on broker publish, removing a whole class of "DB says success, downstream never processed" incidents.
@@ -65,7 +65,7 @@ Marketing automation platform for a top-3 federal grocery retailer (SMS, Push, E
 - Built fault-tolerant Kafka integrations: idempotent producer, `acks=all`, SCRAM auth, retries and DLQ across 20+ topics.
 - Set up observability: tracing in Jaeger, metrics and alerts in Prometheus + Grafana (Micrometer), structured logging.
 
-**Java Developer** — telecom BSS billing system · *Oct 2021 – Jan 2024*
+**Java Developer** — telecom BSS billing system · *Oct 2021 – Jan 2024*<br>
 Billing microservices for a telecom operator's BSS platform.
 
 **Java Developer** — CRM for a pharmacy chain · *Feb 2020 – Oct 2021*
